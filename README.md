@@ -10,7 +10,7 @@
 
 I'm a results-oriented Technology leader with over 13 years of experience in delivering highly-critical, time-sensitive cross-organisational projects⏳. I am currently working as a **Tech Arch Senior Manager** at Accenture Australia. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-# Blog posts
+## My Latest Blog posts 📕
 <!-- BLOG-POST-LIST:START -->
 - [Azure Resource Manager 101 - Unlocking the Essentials for Seamless Cloud Deployment and Management](https://narmadanannaka.com/azure-resource-manager-101-unlocking-the-essentials-for-seamless-cloud-deployment-and-management)
 - [AZ-900 Mastery: Unveiling Microsoft Azure Fundamentals Exam Guide for Success](https://narmadanannaka.com/az-900-mastery-unveiling-microsoft-azure-fundamentals-exam-guide-for-success)
