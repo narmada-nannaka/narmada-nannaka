@@ -10,6 +10,10 @@
 
 I'm a results-oriented Technology leader with over 13 years of experience in delivering highly-critical, time-sensitive cross-organisational projects⏳. I am currently working as a **Tech Arch Senior Manager** at Accenture Australia. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
+## My Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## My Skills 🧠
 
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
