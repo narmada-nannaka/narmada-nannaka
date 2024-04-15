@@ -16,4 +16,4 @@ jobs:
       - name: Pull in Hashnode Blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://www.narmadanannaka.com/feed/"
+          feed_list: "https://narmadanannaka.com/rss.xml"
