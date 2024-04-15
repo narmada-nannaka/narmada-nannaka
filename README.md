@@ -14,9 +14,9 @@ I'm a results-oriented Technology leader with over 13 years of experience in del
 <!-- BLOG-POST-LIST:START -->
 - [Azure Resource Manager 101 - Unlocking the Essentials for Seamless Cloud Deployment and Management](https://narmadanannaka.com/azure-resource-manager-101-unlocking-the-essentials-for-seamless-cloud-deployment-and-management)
 - [AZ-900 Mastery: Unveiling Microsoft Azure Fundamentals Exam Guide for Success](https://narmadanannaka.com/az-900-mastery-unveiling-microsoft-azure-fundamentals-exam-guide-for-success)
-- [From Coding in Aerospace to Waiting Tables: My Journey to Becoming a Tech Leader and a Finalist for 2023 Women in Digital Awards](https://narmadanannaka.com/from-coding-in-aerospace-to-waiting-tables-my-journey-to-becoming-a-tech-leader-and-a-finalist-for-2023-women-in-digital-awards)
 - [Is AWS Really Safe? A Security Overview](https://narmadanannaka.com/is-aws-really-safe-a-security-overview)
 - [Optus Data Breach - what to do?](https://narmadanannaka.com/optus-data-breach-what-to-do)
+- [Integration Architecture Patterns](https://narmadanannaka.com/integration-architecture-patterns)
 <!-- BLOG-POST-LIST:END -->
 
 ## My Skills 🧠
