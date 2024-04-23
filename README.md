@@ -51,9 +51,9 @@ I'm a results-oriented Technology leader with over 13 years of experience in del
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=narmada-nannaka&theme=neon-palenight&hide_border=false&mode=weekly&card_width=960)](https://git.io/streak-stats)
 
 ## Find me around the web 🌍
-<a href="https://narmadanannaka.com/" target="blank"><img height="30" width="30" align="center" src="https://github.com/narmada-nannaka/narmada-nannaka/assets/65201911/1205260a-0a39-4a6d-bdb4-9781284cd103" /></a>
-<a href="https://www.linkedin.com/in/narmada-nannaka/" target="blank"><img height="30" width="30" align="center" src="https://github.com/narmada-nannaka/narmada-nannaka/assets/65201911/25916c27-efe2-4ef3-97c1-a9d6ca75b7fb" /></a>
-<a href="https://twitter.com/narmada_nannaka" target="blank"><img height="30" width="30" align="center" src="https://github.com/narmada-nannaka/narmada-nannaka/assets/65201911/5a2d8843-0abc-4423-bd3b-4fbcdcb809f2"/></a>
-
-<a href="https://www.flaticon.com/free-icons" title="Social icons">Icons created by Flaticon</a>
+<a href="https://narmadanannaka.com/" target="blank">🌐</a>
+<a href="https://medium.com/@narmada-nannaka" target="blank">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/narmada-nannaka/" target="blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://twitter.com/narmada_nannaka" target="blank">![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)</a>
+<a href="https://codepen.io/narmada-nannaka" target="blank">![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)</a>
 
