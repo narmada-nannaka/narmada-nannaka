@@ -12,11 +12,11 @@ I'm a results-oriented Technology leader with over 13 years of experience in del
 
 ## My Latest Blog posts 📕
 <!-- BLOG-POST-LIST:START -->
-- [Azure Resource Manager 101 - Unlocking the Essentials for Seamless Cloud Deployment and Management](https://narmadanannaka.com/azure-resource-manager-101-unlocking-the-essentials-for-seamless-cloud-deployment-and-management)
-- [AZ-900 Mastery: Unveiling Microsoft Azure Fundamentals Exam Guide for Success](https://narmadanannaka.com/az-900-mastery-unveiling-microsoft-azure-fundamentals-exam-guide-for-success)
-- [Is AWS Really Safe? A Security Overview](https://narmadanannaka.com/is-aws-really-safe-a-security-overview)
-- [Optus Data Breach - what to do?](https://narmadanannaka.com/optus-data-breach-what-to-do)
-- [Integration Architecture Patterns](https://narmadanannaka.com/integration-architecture-patterns)
+- [Azure Resource Manager 101 - Unlocking the Essentials for Seamless Cloud Deployment and Management](https://narmada-nannaka.hashnode.dev/azure-resource-manager-101-unlocking-the-essentials-for-seamless-cloud-deployment-and-management)
+- [AZ-900 Mastery: Unveiling Microsoft Azure Fundamentals Exam Guide for Success](https://narmada-nannaka.hashnode.dev/az-900-mastery-unveiling-microsoft-azure-fundamentals-exam-guide-for-success)
+- [Is AWS Really Safe? A Security Overview](https://narmada-nannaka.hashnode.dev/is-aws-really-safe-a-security-overview)
+- [Optus Data Breach - what to do?](https://narmada-nannaka.hashnode.dev/optus-data-breach-what-to-do)
+- [Integration Architecture Patterns](https://narmada-nannaka.hashnode.dev/integration-architecture-patterns)
 <!-- BLOG-POST-LIST:END -->
 
 ## My Skills 🧠
