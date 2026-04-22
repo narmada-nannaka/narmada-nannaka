@@ -48,7 +48,7 @@ I'm a results-oriented Technology leader with over 13 years of experience in del
 
 ## My GitHub Stats 📊
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=narmada-nannaka&theme=neon-palenight&hide_border=false&mode=weekly&card_width=960)
+![GitHub Streak](https://streak-stats.demolab.com/?user=narmada-nannaka&theme=neon-palenight&hide_border=false&mode=weekly&card_width=960)
 
 ## Find me around the web 🌍
 <a href="https://narmadanannaka.com/" target="blank">🌐</a>
