@@ -12,11 +12,11 @@ I'm a results-oriented Technology leader with over 13 years of experience in del
 
 ## My Latest Blog posts 📕
 <!-- BLOG-POST-LIST:START -->
-- [Azure Resource Manager 101 - Unlocking the Essentials for Seamless Cloud Deployment and Management](https://narmadanannaka.com/azure-resource-manager-101-unlocking-the-essentials-for-seamless-cloud-deployment-and-management)
-- [AZ-900 Mastery: Unveiling Microsoft Azure Fundamentals Exam Guide for Success](https://narmadanannaka.com/az-900-mastery-unveiling-microsoft-azure-fundamentals-exam-guide-for-success)
-- [Is AWS Really Safe? A Security Overview](https://narmadanannaka.com/is-aws-really-safe-a-security-overview)
-- [Optus Data Breach - what to do?](https://narmadanannaka.com/optus-data-breach-what-to-do)
-- [Integration Architecture Patterns](https://narmadanannaka.com/integration-architecture-patterns)
+- [Debugging A2A: When Your AI Agent Refuses to Speak Python](https://narmadanannaka.com/debugging-a2a-when-your-ai-agent-refuses-to-speak-python)
+- [When Innovation Declares Victory Over Mental Health: The OpenAI Paradox](https://narmadanannaka.com/when-innovation-declares-victory-over-mental-health-the-openai-paradox)
+- [Salesforce Data Cloud: Bridging Enterprise Data Gaps with Unified Customer Intelligence](https://narmadanannaka.com/salesforce-data-cloud-enterprise-customer-intelligence)
+- [Search in the Age of AI: Essential Data Architecture Changes for Enterprise Success](https://narmadanannaka.com/ai-search-enterprise-data-architecture)
+- [Mitigating AI Hallucinations: Strategies &amp; Best Practices for Tech Leaders](https://narmadanannaka.com/enterprise-guide-ai-hallucinations)
 <!-- BLOG-POST-LIST:END -->
 
 ## My Skills 🧠
